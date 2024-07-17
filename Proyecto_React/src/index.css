@@ -7,3 +7,64 @@
     width: 100px;
     text-align: center;
 }
+
+.item-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.item-card .card-img-top {
+    height: 400px;
+    object-fit: cover;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.bomber-section {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.bomber-section h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.bomber-section p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.bomber-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.bomber-section .btn-custom {
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    text-align: center;
+}
+
+.bomber-section .btn-custom:hover {
+    background-color: red;
+    color: rgb(247, 247, 247);
+}

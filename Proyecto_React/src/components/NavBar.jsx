@@ -1,22 +1,25 @@
-import CartWidget from "./CartWidget"
+import { Link, NavLink } from "react-router-dom";
+import CartWidget from "./CartWidget";
 
 const NavBar = () => {
     return (
         <div className="container my-4">
             <div className="row align-items-center">
                 <div className="col-12 col-md-4">
-                    <img src="public/logo_renner.png" alt="Renner Uruguay" className="img-fluid" />
+                    <Link to={"/"}>
+                        <img src="/logo_renner.png" alt="Renner Uruguay" className="img-fluid" />
+                    </Link>
                 </div>
                 <div className="col-12 col-md-4">
                     <ul className="nav justify-content-center">
                         <li className="nav-item">
-                            <a className="nav-link text-black" href="#">Hombres</a>
+                            <NavLink to={"/category/hombre"} className="nav-link text-black">Hombres</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-black" href="#">Mujeres</a>
+                            <NavLink to={"/category/mujer"} className="nav-link text-black">Mujeres</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-black" href="#">Niños</a>
+                            <NavLink to={"/category/niño"} className="nav-link text-black">Niños</NavLink>
                         </li>
                     </ul>
                 </div>

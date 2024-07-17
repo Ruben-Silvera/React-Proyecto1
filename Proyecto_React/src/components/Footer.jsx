@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-md">
-                        <h5 className="text-white">Contactanos</h5>
+                        <h5 className="text-white">Contáctanos</h5>
                         <ul className="list-unstyled">
                             <li><span className="text-white">Email: contacto@tudominio.com</span></li>
                             <li><span className="text-white">Teléfono: +1234567890</span></li>
@@ -16,7 +16,7 @@ const Footer = () => {
                         <h5 className="text-white">Pedidos</h5>
                         <ul className="list-unstyled">
                             <li><a href="/" className="text-white">Rastrea tu Paquete</a></li>
-                            <li><a href="/productos" className="text-white">Politicas de Envio</a></li>
+                            <li><a href="/productos" className="text-white">Políticas de Envío</a></li>
                         </ul>
                     </div>
                     <div className="col-md">
@@ -27,7 +27,7 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div className="col-md">
-                        <h5 className="text-white">Mas Informacion</h5>
+                        <h5 className="text-white">Más Información</h5>
                         <ul className="list-unstyled">
                             <li><a href="/" className="text-white">Acerca de Nosotros</a></li>
                             <li><a href="/trabaja" className="text-white">Reglamentos y Legalidades</a></li>

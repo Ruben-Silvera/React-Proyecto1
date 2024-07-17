@@ -3,7 +3,7 @@ const Publicidad2 = () => {
         <div className="container-fluid">
             <div className="row">
                 <div className="col-12">
-                    <img src="./public/banner_2.webp" alt="Publicidad" className="img-fluid" style={{ width: '100%' }} /> {/* Añade style={{ width: '100%' }} para que la imagen sea responsive */}
+                    <img src="/banner_2.webp" alt="Publicidad" className="img-fluid" style={{ width: '100%' }} />
                 </div>
             </div>
         </div>
