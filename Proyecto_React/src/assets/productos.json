@@ -4,7 +4,7 @@
         "title": "Campera Bomber",
         "description": "La Campera Bomber en Poliamida es una prenda moderna y versátil, ideal para cualquier ocasión. Está confeccionada en poliamida de alta calidad, lo que la hace resistente y ligera al mismo tiempo. Diseñada con una capucha funcional y un bolsillo interior, ofrece comodidad y funcionalidad adicional. Su diseño elegante y su ajuste cómodo la convierten en una excelente opción para días casuales o eventos informales.",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_880250816_001_3_ee84a0d819.jpg",
-        "Price": 1790,
+        "price": 1790,
         "stock": 10,
         "category": "hombre"
     },
@@ -13,7 +13,7 @@
         "title": "Camisa Regular",
         "description": "Camisa Regular en Franela de Cuadros y Manga Larga",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_634818648_001_3_f4596e7ae1.jpg",
-        "Price": 999,
+        "price": 999,
         "stock": 10,
         "category": "hombre"
     },
@@ -22,7 +22,7 @@
         "title": "Campera Ultraliviana",
         "description": "Campera Ultraliviana Básica en Poliamida con Cuello Alto",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_638405998_001_3_b506ad0d44.jpg",
-        "Price": 1600,
+        "price": 1600,
         "stock": 10,
         "category": "hombre"
     },
@@ -31,7 +31,7 @@
         "title": "Blazer Largo",
         "description": "Blazer Largo Sastrería en Crepé con Arrugas en las Mangas",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_882170879_001_3_17927c9dbf.jpg",
-        "Price": 899,
+        "price": 899,
         "stock": 10,
         "category": "mujer"
     },
@@ -40,7 +40,7 @@
         "title": "Cardigan Alargado",
         "description": "Cardigan Alargado Básico de Punto con Bolsillos",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_546969041_001_3_e2c8658655.jpg",
-        "Price": 1790,
+        "price": 1790,
         "stock": 10,
         "category": "mujer"
     },
@@ -49,7 +49,7 @@
         "title": "Campera Cropped",
         "description": "Campera Cropped Básica en Pu con Cierre Delantero",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_883869438_001_3_5f74f4cce5.jpg",
-        "Price": 2190,
+        "price": 2190,
         "stock": 10,
         "category": "mujer"
     },
@@ -58,7 +58,7 @@
         "title": "Conjunto Largo Infantil",
         "description": "Conjunto Largo Infantil con Estampa Floral y Minnie - Talle 1 a 6 años",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_889847774_001_3_a4d2243b3a.jpg",
-        "Price": 1300,
+        "price": 1300,
         "stock": 10,
         "category": "niño"
     },
@@ -67,7 +67,7 @@
         "title": "Buzo Infantil con Cierre y Capucha",
         "description": "Buzo Infantil con Cierre y Capucha - Talle 5 a 14 años",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_882195056_001_3_46422d7776.jpg",
-        "Price": 1290,
+        "price": 1290,
         "stock": 10,
         "category": "niño"
     },
@@ -76,7 +76,7 @@
         "title": "Conjunto Infantil en Algodón con Bordado",
         "description": "Conjunto Infantil en Algodón con Bordado Cara de Animalito - Talle 0 al 18 meses",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_677448843_001_3_3ba5e3ddd6.jpg",
-        "Price": 899,
+        "price": 899,
         "stock": 10,
         "category": "niño"
     }
