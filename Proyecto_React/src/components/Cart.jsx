@@ -9,11 +9,11 @@ const Cart = () => {
         return (
             <div className="container">
                 <div className="row">
-                    <div className="cart">
+                    <div className="cart text-center">
                         <img src="/public/bolsa-de-la-compra.png" alt="carrito" />
                         <h1>Tu bolsa está vacía</h1>
                         <h4>Podés buscar nuevos productos en categorías o ver nuestras sugerencias.</h4>
-                        <Link to={"/"} className="btn-continue-shopping">Seguir Comprando</Link>
+                        <Link to={"/"} className="btn btn-continue-shopping">Seguir Comprando</Link>
                     </div>
                 </div>
             </div>
@@ -33,17 +33,27 @@ const Cart = () => {
                                     <td className="align-middle text-center">${item.price} X {item.quantity}</td>
                                     <td className="align-middle text-center">${item.price * item.quantity}</td>
                                     <td className="align-middle text-center">
-                                        <img src="/contenedor-de-basura.png" alt="Eliminar Producto" onClick={() => removeItem(item.id)} />
+                                        <button className="btn btn-light" onClick={() => removeItem(item.id)}>
+                                            <img src="/contenedor-de-basura.png" alt="Eliminar Producto" />
+                                        </button>
                                     </td>
                                 </tr>
                             ))}
                             <tr>
-                                <td className="align-middle" colSpan={3}>Total a Pagar</td>
-                                <td className="align-middle text-center">${sumProducts()}</td>
-                                <td className="align-middle">&nbsp;</td>
+                                <td className="align-middle" colSpan={3}><b>Total a Pagar</b></td>
+                                <td className="align-middle text-center"><b>${sumProducts()}</b></td>
+                                <td className="align-middle"></td>
                             </tr>
                         </tbody>
                     </table>
+                    <div className="d-flex justify-content-between mt-4">
+                        <button className="btn btn-light" onClick={clear}>
+                            Vaciar Carrito <img src="/contenedor-de-basura.png" alt="Vaciar Carrito" />
+                        </button>
+                        <Link to={"/checkout"} className="btn btn-light" title="Ir al Checkout">
+                            Terminar mi Compra!
+                        </Link>
+                    </div>
                 </div>
             </div>
         </div>

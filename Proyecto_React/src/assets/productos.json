@@ -11,7 +11,7 @@
     {
         "id": 2,
         "title": "Camisa Regular",
-        "description": "Camisa Regular en Franela de Cuadros y Manga Larga",
+        "description": "La Camisa Regular en Franela de Cuadros es una prenda clásica y atemporal que nunca pasa de moda. Confeccionada en franela de alta calidad, esta camisa es suave al tacto y ofrece una calidez ideal para los días más frescos. Su diseño de cuadros y manga larga la convierte en una opción versátil, perfecta tanto para el día a día como para ocasiones más informales. El corte regular asegura un ajuste cómodo y favorecedor para todos los tipos de cuerpo. Esta camisa es ideal para quienes buscan una combinación de estilo y confort, aportando un toque de elegancia casual a cualquier conjunto.",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_634818648_001_3_f4596e7ae1.jpg",
         "price": 999,
         "stock": 10,
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "title": "Campera Ultraliviana",
-        "description": "Campera Ultraliviana Básica en Poliamida con Cuello Alto",
+        "description": "La Campera Ultraliviana en Poliamida con Cuello Alto es una prenda imprescindible para quienes buscan combinar estilo y funcionalidad en su vestuario diario. Fabricada con poliamida de alta calidad, esta campera ofrece una protección eficaz contra el frío sin comprometer la ligereza, lo que la convierte en una opción ideal para los días de invierno o climas cambiantes. Su diseño con cuello alto añade un toque moderno y elegante, a la vez que proporciona una capa adicional de calor. ",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_638405998_001_3_b506ad0d44.jpg",
         "price": 1600,
         "stock": 10,
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "title": "Blazer Largo",
-        "description": "Blazer Largo Sastrería en Crepé con Arrugas en las Mangas",
+        "description": "El Blazer Largo en Crepé con Arrugas en las Mangas es una prenda sofisticada y elegante, diseñada para la mujer moderna que aprecia el estilo y la versatilidad. Confeccionado en crepé de alta calidad, este blazer ofrece una textura suave y fluida que se adapta perfectamente al cuerpo, proporcionando un ajuste favorecedor. Las arrugas delicadas en las mangas añaden un toque distintivo y contemporáneo, destacando la prenda con un detalle único que la hace destacar en cualquier ocasión.",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_882170879_001_3_17927c9dbf.jpg",
         "price": 899,
         "stock": 10,
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "Cardigan Alargado",
-        "description": "Cardigan Alargado Básico de Punto con Bolsillos",
+        "description": "El Cardigan Alargado de Punto con Bolsillos es la prenda perfecta para añadir una capa de comodidad y estilo a cualquier conjunto. Confeccionado en punto de alta calidad, este cardigan ofrece una suavidad envolvente que lo convierte en una opción ideal para las temporadas más frías. Su diseño alargado proporciona una silueta elegante y fluida, mientras que los bolsillos funcionales añaden un toque práctico, perfecto para mantener las manos calientes o guardar pequeños objetos. ",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_546969041_001_3_e2c8658655.jpg",
         "price": 1790,
         "stock": 10,
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "title": "Campera Cropped",
-        "description": "Campera Cropped Básica en Pu con Cierre Delantero",
+        "description": "La Campera Cropped en PU con Cierre Delantero es la prenda ideal para añadir un toque moderno y audaz a cualquier look. Confeccionada en PU de alta calidad, esta campera ofrece un acabado liso y resistente que imita la textura del cuero, aportando un aire contemporáneo y estilizado. Su diseño cropped, que corta a la altura de la cintura, realza la figura y es perfecto para combinar con pantalones de tiro alto o faldas, creando un conjunto equilibrado y atractivo. El cierre delantero no solo añade funcionalidad, sino que también refuerza su estética minimalista y sofisticada.",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_883869438_001_3_5f74f4cce5.jpg",
         "price": 2190,
         "stock": 10,
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "title": "Conjunto Largo Infantil",
-        "description": "Conjunto Largo Infantil con Estampa Floral y Minnie - Talle 1 a 6 años",
+        "description": "El Conjunto Largo Infantil con Estampa Floral y de Minnie es la combinación perfecta de comodidad y encanto para las más pequeñas. Confeccionado en materiales suaves y transpirables, este conjunto es ideal para mantener a los niños cómodos durante todo el día. Su diseño largo proporciona una cobertura adecuada para los días más frescos, mientras que la estampa floral y el detalle de Minnie añaden un toque lúdico y adorable que encantará a niñas de todas las edades.",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_889847774_001_3_a4d2243b3a.jpg",
         "price": 1300,
         "stock": 10,
@@ -65,7 +65,7 @@
     {
         "id": 8,
         "title": "Buzo Infantil con Cierre y Capucha",
-        "description": "Buzo Infantil con Cierre y Capucha - Talle 5 a 14 años",
+        "description": "El Buzo Infantil con Cierre y Capucha es la prenda ideal para mantener a los más pequeños cómodos y abrigados durante los días frescos. Confeccionado en un tejido suave y cálido, este buzo ofrece una excelente cobertura y confort. Su diseño con cierre delantero permite una fácil colocación y ajuste, mientras que la capucha integrada brinda una protección adicional contra el frío y el viento. El estilo versátil y el diseño funcional hacen de este buzo una opción práctica tanto para el juego al aire libre como para un día relajado en casa.",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_882195056_001_3_46422d7776.jpg",
         "price": 1290,
         "stock": 10,
@@ -74,7 +74,7 @@
     {
         "id": 9,
         "title": "Conjunto Infantil en Algodón con Bordado",
-        "description": "Conjunto Infantil en Algodón con Bordado Cara de Animalito - Talle 0 al 18 meses",
+        "description": "El Conjunto Infantil en Algodón con Bordado es una opción encantadora y cómoda para los más pequeños. Confeccionado en algodón suave y respirable, este conjunto garantiza una sensación de frescura y confort durante todo el día. El diseño incluye un elegante bordado de una carita de animalito, que añade un toque tierno y juguetón al conjunto. Ideal para las primeras etapas de la infancia, desde los 0 hasta los 18 meses, el conjunto es perfecto para mantener a los bebés abrigados y adorables.",
         "image": "https://lrsa-media.lojasrenner.com.br/uri/medium_677448843_001_3_3ba5e3ddd6.jpg",
         "price": 899,
         "stock": 10,
